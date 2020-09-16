@@ -15,3 +15,5 @@ Change 6: -> Bug2 fix
 
 Chane 7: -> Done by team mate for rebase without conflict
 
+Change 8: ->Change done to check stash
+
