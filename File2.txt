@@ -1,4 +1,5 @@
 Working on CR1
 
-Change to check push
-Change to add pull made by teammate
+Change -> to check push
+Change -> to add pull made by teammate
+Change -> rebase with conflict local and remote master,this is modified by team mate for WI7
